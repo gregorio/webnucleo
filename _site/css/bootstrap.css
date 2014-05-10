@@ -5829,4 +5829,16 @@ td.visible-print {
     display: none !important;
   }
 }
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  height: 120px;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #333333;
+  color: #bbbbbb;
+}
 /*# sourceMappingURL=bootstrap.css.map */
